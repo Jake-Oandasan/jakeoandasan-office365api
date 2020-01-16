@@ -1,0 +1,17 @@
+{
+    "name": "jakeoandasan/office365api",
+    "description": "A package that can communicate with office 365 using microsoft graph api.",
+    "type": "library",
+    "require": {
+        "league/oauth2-client": "dev-master",
+        "microsoft/microsoft-graph": "1.10"
+    },
+    "license": "none",
+    "authors": [
+        {
+            "name": "Jake Oandasan",
+            "email": "jake.oandasan@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
