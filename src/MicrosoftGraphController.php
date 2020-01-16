@@ -6,7 +6,6 @@ use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use Microsoft\Graph\Graph;
 use Microsoft\Graph\Model;
-use App\TokenStore\TokenCache;
 
 class MicrosoftGraphController extends Controller
 {
