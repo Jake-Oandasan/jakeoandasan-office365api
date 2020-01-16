@@ -13,5 +13,10 @@
             "email": "jake.oandasan@yahoo.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+	"autoload": {
+		"psr-4": {
+			"jakeoandasan\\office365api\\": "src/"
+		}
+	}
 }
